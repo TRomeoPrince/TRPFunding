@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Trader A",
+    "login": 123456789,
+    "password": "CHANGE_ME",
+    "server": "JustMarkets-Live",
+    "initial_capital": 5000.0,
+    "enabled": true
+  },
+  {
+    "name": "Trader B",
+    "login": 987654321,
+    "password": "CHANGE_ME",
+    "server": "JustMarkets-Live",
+    "initial_capital": 10000.0,
+    "enabled": true
+  }
+]
